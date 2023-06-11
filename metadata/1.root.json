@@ -1,0 +1,76 @@
+{
+ "signatures": [
+  {
+   "keyid": "502779271d1265c2357264178e3dbc6cc6c5e1486b6397e19eef6d07b1ff92e7",
+   "sig": "2a8ea0990e4ebbb0b0c8a45bff2db0d49cd7fe3d9997912edd75bce6ff9498876ace22a231da802c213cc8611f40d082e659744510d2c53c0659d8654a088a0c"
+  }
+ ],
+ "signed": {
+  "_type": "root",
+  "consistent_snapshot": true,
+  "expires": "2024-06-03T14:56:12Z",
+  "keys": {
+   "502779271d1265c2357264178e3dbc6cc6c5e1486b6397e19eef6d07b1ff92e7": {
+    "keyid": "502779271d1265c2357264178e3dbc6cc6c5e1486b6397e19eef6d07b1ff92e7",
+    "keytype": "ed25519",
+    "keyval": {
+     "public": "8450149a189c4e0c61f90dd1e442a7ddb16cc91ff11c3ac060de25483a151fcb"
+    },
+    "scheme": "ed25519"
+   },
+   "6be3cd19c6f2cdf05269c429435510062450a25cb560de6aaf227f3376d3862b": {
+    "keyid": "6be3cd19c6f2cdf05269c429435510062450a25cb560de6aaf227f3376d3862b",
+    "keytype": "ed25519",
+    "keyval": {
+     "public": "c0ce0025db4cf386d59756419061d008076a89bd1caa951db682c70b4a6f4dfe"
+    },
+    "scheme": "ed25519"
+   },
+   "7b07c52d490b4de2f190a2eccdc42fbff994b237ddff4e9ce4153e8ee2c9f57a": {
+    "keyid": "7b07c52d490b4de2f190a2eccdc42fbff994b237ddff4e9ce4153e8ee2c9f57a",
+    "keytype": "ed25519",
+    "keyval": {
+     "public": "a63c9243ccf6764fe382b8c5d2f2fa0f22eeaed1f75289daecf97e25dce4f64f"
+    },
+    "scheme": "ed25519"
+   },
+   "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c": {
+    "keyid": "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c",
+    "keytype": "ed25519",
+    "keyval": {
+     "public": "b5e1b8351c597dc3fb9c7df56b187e7cdbe6cf0b2bd0adba63a2e2d5adbca34d"
+    },
+    "scheme": "ed25519"
+   }
+  },
+  "roles": {
+   "root": {
+    "keyids": [
+     "502779271d1265c2357264178e3dbc6cc6c5e1486b6397e19eef6d07b1ff92e7"
+    ],
+    "threshold": 1
+   },
+   "snapshot": {
+    "keyids": [
+     "6be3cd19c6f2cdf05269c429435510062450a25cb560de6aaf227f3376d3862b"
+    ],
+    "threshold": 1
+   },
+   "targets": {
+    "keyids": [
+     "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c"
+    ],
+    "threshold": 1
+   },
+   "timestamp": {
+    "keyids": [
+     "7b07c52d490b4de2f190a2eccdc42fbff994b237ddff4e9ce4153e8ee2c9f57a"
+    ],
+    "threshold": 1
+   }
+  },
+  "spec_version": "1.0.30",
+  "version": 1,
+  "x-tufrepo-expiry-period": 31536000
+ }
+}

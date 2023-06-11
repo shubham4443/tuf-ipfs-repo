@@ -1,0 +1,20 @@
+{
+ "signatures": [
+  {
+   "keyid": "6be3cd19c6f2cdf05269c429435510062450a25cb560de6aaf227f3376d3862b",
+   "sig": "17b292490eb9b8f9e17cd728bdda71309f1c684892fbe574bb29a8ea00078c910c83fdb545bbe8ea59d7ab37e07b6d68ef7d91efe67bfc8ea016d2085de9b60b"
+  }
+ ],
+ "signed": {
+  "_type": "snapshot",
+  "expires": "2024-06-03T14:56:12Z",
+  "meta": {
+   "targets.json": {
+    "version": 1
+   }
+  },
+  "spec_version": "1.0.30",
+  "version": 1,
+  "x-tufrepo-expiry-period": 31536000
+ }
+}

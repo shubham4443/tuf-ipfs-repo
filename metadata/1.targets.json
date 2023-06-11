@@ -1,0 +1,23 @@
+{
+    "signatures": [
+        {
+            "keyid": "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c",
+            "sig": "048dc4d2937017ae51b1597e396ec69c72db085b427744c7cca608124ad22c4ac7569b93b15985def30bced6174d8f51062054336664287075e7846d2589b200"
+        }
+    ],
+    "signed": {
+        "_type": "targets",
+        "expires": "2024-06-03T14:58:05Z",
+        "spec_version": "1.0.30",
+        "targets": {
+            "ipfs:QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7": {
+                "hashes": {
+                    "sha256": "caa44c5678fe86525b6b5246bf370ecb133de76a91b0ba5d44fc98c8fa8001bd"
+                },
+                "length": 14
+            }
+        },
+        "version": 1,
+        "x-tufrepo-expiry-period": 31536000
+    }
+}
