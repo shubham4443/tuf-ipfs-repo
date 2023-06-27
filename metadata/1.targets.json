@@ -12,9 +12,9 @@
         "targets": {
             "ipfs:QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7": {
                 "hashes": {
-                    "sha256": "caa44c5678fe86525b6b5246bf370ecb133de76a91b0ba5d44fc98c8fa8001bd"
+                    "sha256": ""
                 },
-                "length": 14
+                "length": 0
             }
         },
         "version": 1,
