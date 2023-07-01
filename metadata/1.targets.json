@@ -2,7 +2,7 @@
     "signatures": [
         {
             "keyid": "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c",
-            "sig": "4a68a7e286057feaa666d400701b77aa5636f2c33e1c8d26d88dd4bd6fd6a2196f9f82817bb30fc3f0095c93cbbaa9241db8287c9a0e028ef9a2e0e10b846509"
+            "sig": "69f6ae4f0ec4984fca977cf3f98ee94e5fa8a2d324f36482a508846ce62da17114f2a868fde75fdbac1688d976f42c48c3765f0ee62c1cb8056652c555376102"
         }
     ],
     "signed": {
@@ -12,7 +12,8 @@
         "targets": {
             "ipfs:QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7": {
                 "hashes": {
-                    "sha256": ""
+                    "sha256": "",
+                    "ipfs": "QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7"
                 },
                 "length": 0
             }
