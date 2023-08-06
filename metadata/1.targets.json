@@ -2,7 +2,7 @@
     "signatures": [
         {
             "keyid": "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c",
-            "sig": "d179a72630242e400431da0b8f241a2599edcbf36e90ac1d9da14a0c807827de0759e9805f9391b4bedbe1ce395be1bad16f7bd99d798e540d0531669f63840b"
+            "sig": "d7db08a1294a6d69875115a9ca3eb6c59e0bf815200ae168232ef3f49553140b6e8d30060b12a04a7d8ac7c7324c00239ef3ee337cf4228db215af5443f8a00b"
         }
     ],
     "signed": {
@@ -10,7 +10,7 @@
         "expires": "2024-06-03T14:58:05Z",
         "spec_version": "1.0.30",
         "targets": {
-            "ipfs:QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7": {
+            "file1.txt": {
                 "hashes": {
                     "ipfs": "QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7"
                 },
