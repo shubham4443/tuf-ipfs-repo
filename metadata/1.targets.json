@@ -2,7 +2,7 @@
     "signatures": [
         {
             "keyid": "889515d9d623948c081b180b7b48a2a8a269803ca1975fb917af66512f33a76c",
-            "sig": "d7db08a1294a6d69875115a9ca3eb6c59e0bf815200ae168232ef3f49553140b6e8d30060b12a04a7d8ac7c7324c00239ef3ee337cf4228db215af5443f8a00b"
+            "sig": "ce15cf830d69920d4f173f09ce61b69926f81d9485ded067092b44bbc4881f91891f77c643a37c5d62f5fe34b511e339214646dac3ffce8d89b912f925b2b302"
         }
     ],
     "signed": {
@@ -14,7 +14,7 @@
                 "hashes": {
                     "ipfs": "QmSFEbC6Y17cdti7damkjoqESWftkyfSXjdKDQqnf4ECV7"
                 },
-                "length": 0
+                "length": 14
             }
         },
         "version": 1,
